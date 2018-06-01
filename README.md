@@ -35,7 +35,7 @@ install Gcc4.9 and G++4.9
     sudo update-alternatives --config gcc
 
 
-download anaconda https://www.anaconda.com/download/#linux
-Setup anaconda sha256sum /path/filename
-In matlab befor generate python command set_global_variable('python', '/home/mohamed/anaconda3/bin/python2.7');
-install 
+    download anaconda https://www.anaconda.com/download/#linux
+    Setup anaconda sha256sum /path/filename
+    In matlab befor generate python command set_global_variable('python', '/home/mohamed/anaconda3/bin/python2.7');
+     
